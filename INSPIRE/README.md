@@ -32,15 +32,15 @@ The IR NS Requirements as pertains to STA are available at [INSPIRE IR NS - STA]
 
 In order to establish a new technology within INSPIRE, in addition to the alignment of requirements pertaining to the data specifications and networks services, a "Good Practice" should be established, in accordance with the following procedure:
 
-1.Initiation using a "good practice fiche" including evidence that the solution has been put into practice and has received broader support. [SensorThings API Good Practice Fiche](https://docs.google.com/document/d/1AKw3xXqiCVYSbRvqra0jnsbIF3Nm_KonwDO0RRluo3Y/edit)
+1. Initiation using a "good practice fiche" including evidence that the solution has been put into practice and has received broader support. [SensorThings API Good Practice Fiche](https://docs.google.com/document/d/1AKw3xXqiCVYSbRvqra0jnsbIF3Nm_KonwDO0RRluo3Y/edit)
 
-2.Outreach through a webinar 
+2. Outreach through a webinar 
 
-3.Submission for inclusion in a good practices section in the INSPIRE Knowledge Base (ideally with support from one or several INSPIRE MS representatives)
+3. Submission for inclusion in a good practices section in the INSPIRE Knowledge Base (ideally with support from one or several INSPIRE MS representatives)
 
-4.Opinion of the MIG to endorse, ask for clarification or reject the good practice 
+4. Opinion of the MIG to endorse, ask for clarification or reject the good practice 
 
-5.Feedback from users through the good practice repository
+5. Feedback from users through the good practice repository
 
 
 
