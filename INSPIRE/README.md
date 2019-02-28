@@ -7,7 +7,7 @@ SensorThings API" doi:10.3390/geosciences8060221](https://www.mdpi.com/2076-3263
 
 ## Data Alignment - Matching tables
 
-The Excel Sheet [INSPIRE SensorThings Matching.xlsx](INSPIRE SensorThings Matching.xlsx) provides a good basis for the alignment of an existing data source with the requirements from STA and INSPIRE
+The Excel Sheet [INSPIRE SensorThings Matching](https://github.com/DataCoveEU/SensorThings/blob/master/INSPIRE/INSPIRE%20SensorThings%20Matching.xlsx) provides a good basis for the alignment of an existing data source with the requirements from STA and INSPIRE
 
 [INSPIRE Data Specification Implementing Rules](https://inspire.ec.europa.eu/Legislation/Data-Specifications/2892)
 
