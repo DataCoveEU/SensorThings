@@ -43,9 +43,9 @@ In order to establish a new technology within INSPIRE, in addition to the alignm
 5. Feedback from users through the good practice repository
 
 ## Participants
-* BRGM
+* BRGM - Data sources: Water, maybe Biodiversity
 * DataCove e.U.
 * Fraunhofer IOSB
 * JRC
-* KIT
+* KIT - Data sources: Air Quality, national German Project [SmartAQnet](http://smartaq.net/)
 
