@@ -9,6 +9,8 @@ SensorThings API" doi:10.3390/geosciences8060221](https://www.mdpi.com/2076-3263
 
 The Excel Sheet [INSPIRE SensorThings Matching](https://github.com/DataCoveEU/SensorThings/blob/master/INSPIRE/INSPIRE%20SensorThings%20Matching.xlsx) provides a good basis for the alignment of an existing data source with the requirements from STA and INSPIRE
 
+### EC INSPIRE Documents
+
 [INSPIRE Data Specification Implementing Rules](https://inspire.ec.europa.eu/Legislation/Data-Specifications/2892)
 
 [INSPIRE Data Specification Technical Guidelines](https://inspire.ec.europa.eu/Technical-Guidelines/Data-Specifications/2892)
@@ -18,6 +20,8 @@ The Excel Sheet [INSPIRE SensorThings Matching](https://github.com/DataCoveEU/Se
 In order to qualify STA as an INSPIRE Download Service, the requirements laid down in the Implementing Rules for Network Services (IR NS) must be fulfilled. To simplify this task, a Google Sheet has been created detailing the IR requirements together with STA implementation options. Should IR requirements be identified that cannot be supported by STA 1.0, proposals for extension in STA 1.1 should be provided.
 
 The IR NS Requirements as pertains to STA are available at [INSPIRE IR NS - STA](https://docs.google.com/spreadsheets/d/1zX4znRUhsSeZhNMKMLsg3kFbec7hdhrOwujaFHkwl78/edit#gid=0), please request edit rights
+
+### EC INSPIRE Documents
 
 [INSPIRE Network Services Implementing Rules](https://inspire.ec.europa.eu/Legislation/Network-Services/41)
 
