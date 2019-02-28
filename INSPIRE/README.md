@@ -5,3 +5,9 @@ Pertaining to the data requirements towards download services, we have shown ali
 both INSPIRE Environmental Monitoring Facilities and the Observational model in our publication on ["Extending INSPIRE to the Internet of Things through
 SensorThings API" doi:10.3390/geosciences8060221](https://www.mdpi.com/2076-3263/8/6/221)
 
+## Matching tables
+
+The Excel Sheet INSPIRE SensorThings Matching.xlsx provides a good basis for the alignment of an existing data source with the requirements from STA and INSPIRE
+
+
+
