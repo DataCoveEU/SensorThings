@@ -44,7 +44,8 @@ In order to establish a new technology within INSPIRE, in addition to the alignm
 
 ## Participants
 * BRGM
-* Fraunhofer IOSB
 * DataCove e.U.
+* Fraunhofer IOSB
 * JRC
+* KIT
 
