@@ -28,7 +28,7 @@ The IR NS Requirements as pertains to STA are available at [INSPIRE IR NS - STA]
 [INSPIRE Network Services Technical Guidelines](https://inspire.ec.europa.eu/Technical-Guidelines2/Network-Services/41)
 
 
-## Good Practice
+# Good Practice
 
 In order to establish a new technology within INSPIRE, in addition to the alignment of requirements pertaining to the data specifications and networks services, a "Good Practice" should be established, in accordance with the following procedure:
 
@@ -42,5 +42,9 @@ In order to establish a new technology within INSPIRE, in addition to the alignm
 
 5. Feedback from users through the good practice repository
 
-
+## Participants
+* BRGM
+* Fraunhofer IOSB
+* DataCove e.U.
+* JRC
 
