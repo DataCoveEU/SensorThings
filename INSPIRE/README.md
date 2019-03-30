@@ -48,4 +48,5 @@ In order to establish a new technology within INSPIRE, in addition to the alignm
 * Fraunhofer IOSB
 * JRC
 * KIT - Data sources: Air Quality, national German Project [SmartAQnet](http://smartaq.net/)
+* Hamburg
 
