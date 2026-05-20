@@ -1,5 +1,5 @@
 # SensorThings
-SensorThings API (STA)
+## SensorThings API (STA)
 
 The OGC SensorThings API is an OGC standard specification for providing an open and unified way to interconnect IoT devices, data, and applications over the Web. 
 
